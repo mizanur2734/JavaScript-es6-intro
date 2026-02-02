@@ -1,6 +1,8 @@
 different betwen var let const
+js arrow function vs normal function
 
 //__________________
 1.let-cont.js
 2.default-parameter.js
 3.template-string.js
+4.arrow-function.js
