@@ -11,6 +11,7 @@
 7.destructuring.js
 8.entries.js
 9.freeze.js
+10.seal.js
 */
 
 
