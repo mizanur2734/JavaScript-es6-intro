@@ -1,1 +1,8 @@
-1.data-type.js
+// javaScript dainamic data typing language
+// premitive data types: number, string, boolean, null, undefined, symbol
+// non-primitive data types: object, array, function
+
+/**
+ * 1.data-type.js
+ * 2. undefined.js
+ */
