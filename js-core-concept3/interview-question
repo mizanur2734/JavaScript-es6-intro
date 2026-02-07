@@ -1,8 +1,11 @@
 // javaScript dainamic data typing language
 // premitive data types: number, string, boolean, null, undefined, symbol
 // non-primitive data types: object, array, function
+// truthy and falsy values in JavaScript
+// logical operators and their behavior with different data types
 
 /**
  * 1.data-type.js
  * 2. undefined.js
  */
+
