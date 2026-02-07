@@ -3,10 +3,15 @@
 // non-primitive data types: object, array, function
 // truthy and falsy values in JavaScript
 // logical operators and their behavior with different data types
+// explain scope in JavaScript: global scope, function scope, block scope
 
 /**
  * 1.data-type.js
  * 2. undefined.js
  * 3. truthy.js
+ * 4. double-equal.js
+ * 5. triple-equal.js
+ * 6.scope.js
+ * 
  */
 
